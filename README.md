@@ -1,2 +1,2 @@
 # LandingPage
-![ChillWorks_Studio-removebg-preview](https://user-images.githubusercontent.com/95221729/208278508-fe472737-3b68-4f2f-a27d-584015c31772.png)
+![ChillWorks Studio](https://user-images.githubusercontent.com/95221729/208278515-5562c7cd-8687-4029-b9b8-8585cbcceab6.png)
